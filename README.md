@@ -1,4 +1,4 @@
-# flutterproject1
+# electronicrosary
 
 A new Flutter project.
 
